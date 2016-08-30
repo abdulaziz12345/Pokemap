@@ -8,67 +8,69 @@
 	<string name="pref_cat_user_account">الحساب</string>
     <string name="pref_warning">ملاحظة: لا تستخدم حسابك الرئيسي في بوكيمون عندالعودة!
         بدلا من ذلك، إنشئ واستخدام حساب جديد في بوكيمون  مع عنوان بريد إلكتروني مختلف وكلمة المرور مختلفه.</string>
-	<string name="pref_username">Введіть ім’я користувача</string>
-	<string name="pref_default_username">John Doe</string>
-	<string name="pref_password">Введіть пароль</string>
+	<string name="pref_username">أدخل اسم المستخدم الخاص بك</string>
+	<string name="pref_default_username">فلان الفلاني</string>
+	<string name="pref_password">أدخل كلمة المرور
+</string>
 
-	<string name="pref_cat_general">Головні опції</string>
-	<string name="pref_pokestops_title">Показати Pokéstops</string>
-	<string name="pref_gyms_title">Показати Gyms</string>
-	<string name="pref_scanned_title">Показати відскановану область</string>
+	<string name="pref_cat_general">الخيارات الرئيسية</string>
+	<string name="pref_pokestops_title">Pokéstopsمشاهدة </string>
+	<string name="pref_gyms_title">مشاهدة الجمنازيوم</string>
+	<string name="pref_scanned_title">عرض المنطقة الممسوحة </string>
 
-	<string name="pref_service_enable_title">Увімкнути</string>
-	<string name="pref_service_refresh_title">Інтервал оновлення</string>
-	<string name="pref_service_refresh_summary">Як часто сервіс буде оновлювати дані (в секундах)</string>
+	<string name="pref_service_enable_title">اتحاة الخدمة </string>
+	<string name="pref_service_refresh_title">تحديث الخدمة </string>
+	<string name="pref_service_refresh_summary">عدد مرات تحديث الخدمة </string>
 
-	<string name="toast_credentials">Неможливо увійти. Перевірте ваші дані для входу.</string>
-	<string name="title_activity_poke_map">Покемон поруч</string>
+	<string name="toast_credentials">لايمكنك الدخول و تحقق من بينات الدخول الخاص بك.</string>
+	<string name="title_activity_poke_map">نشاط البوكيمون </string>
 
-    <string name="login_warning">Рекомендуємо створити та використовувати фейковий обліковий запис Pokémon Trainer Club з іншим паролем та електронною адресою
-		або використовуви обліковий запис Google, який не використовується у вашому обліковому записі Pokémon Go, бо використання цього додатку може призвести до того, що ваш обліковий запис буде&#160;</string>
-	<string name="prompt_username">PTC ім’я користувача</string>
-	<string name="prompt_password">PTC пароль</string>
-	<string name="action_sign_in">Увійти</string>
-	<string name="error_field_required">Необхідні дані</string>
-	<string name="title_activity_maps">Мапа</string>
-	<string name="login_warning_title">Попередження:</string>
+    <string name="login_warning">ننصحك إنشاء واستخدام حساب feykovyy بوكيمون مدرب نادي مع كلمة السر والبريد الإلكتروني عنوان مختلف
+أو حساب النفايات جوجل، والتي لا يتم استخدامها في حسابك بوكيمون العودة، لأن استخدام هذا التطبيق قد يؤدي إلى الحساب الخاص بك </string>
+	<string name="prompt_username">اسم مستخدم شبكة الاتصالات </string>
+	<string name="prompt_password">الرقم السري </string>
+	<string name="action_sign_in">تسجيل الدخول </string>
+	<string name="error_field_required">البيانات المطلوبة </string>
+	<string name="title_activity_maps">خريطة </string>
+	<string name="login_warning_title">تحذير :</string>
 
-	<string name="request_credentials_title">Введіть ваші дані для входу в Pokémon Go</string>
+	<string name="request_credentials_title">إدخال معلومات تسجيل الدخول الخاصة بك في بوكيمون /string>
 	<string name="search_pokemon_map_suggestion">(Довгий клік на мапу для зміни позиції пошуку)</string>
-	<string name="action_relogin">Перезайти</string>
-	<string name="ban">забанено</string>
-	<string name="minutes">"хвилин"</string>
-	<string name="pokemon_disappearing_in">"Зникне через: "</string>
-	<string name="pokemon_expired">Зик</string>
-	<string name="pokemon_found_new">" знайдено нового покемона."</string>
-	<string name="position_picked">Обрана позиція</string>
-	<string name="seconds">"сек"</string>
-	<string name="toast_localization_waiting">Очікування позиції&#8230;</string>
-	<string name="toast_login_successful">Успішний вхід.</string>
-	<string name="toast_map_not_initialized">Помилка ініціалізації Google Maps</string>
-	<string name="toast_searching">Пошук&#8230;</string>
-	<string name="toast_server_unreachable">Неможливо підключитися до серверів Pokémon Go. Сервери можуть бути відключені.</string>
-	<string name="toast_token_expired">Токен для входу застарілий. Запит нового токена.</string>
-	<string name="toast_user_found">Ваша позиція знайдена!</string>
-	<string name="toast_login_error">Помилка входу.</string>
-	<string name="toast_internal_error">Внутрішня помилка додатку. Це може трапитися, якщо ви офлайн або сервери Pokémon Go відключені.</string>
-	<string name="toast_ptc_login_error">Помилка входу через обліковий запис PTC.</string>
-	<string name="enable_location_permission_title">Дати дозвіл на геолокацію.</string>
-	<string name="enable_location_permission_message">Будь ласка, дайте дозвіл на геолокацію.</string>
-	<string name="toast_pokemon_found_count">" Покемон знайдений"</string>
-	<string name="pokemon_found_none">Не знайдено нових покемонів.</string>
-	<string name="toast_no_location">Помилка отримання GPS-локації.</string>
-	<string name="expiring_in">"Зникне через: %1$d:%2$02d"</string>
-	<string name="permition_message">Будь ласка, дайте дозвіл на геолокацію для використання додатку</string>
-	<string name="allow">Дозволити</string>
-	<string name="app_settings">Налаштування додатку</string>
-	<string name="disclaimer">Порада</string>
-	<string name="notification_service_title">Сервіс Pokémap</string>
-	<string name="notification_service_scanning">Сканування</string>
-	<string name="notification_service_stop">Зупинити сервіс</string>
-	<string name="notification_service_pokemon_near">" покемон поруч."</string>
-	<string name="notification_service_pokemon_in_area">" покемон досяжний:"</string>
-	<string name="meters">метрів</string>
-	<string name="toast_google_login_error">Помилка входу через обліковий запис Google.</string>
+	<string name="action_relogin">اعادة الدخول</string>
+	<string name="ban">حظر </string>
+	<string name="minutes">"دقيقة"</string>
+	<string name="pokemon_disappearing_in">"الاختفاء : "</string>
+	<string name="pokemon_expired">انتهى</string>
+	<string name="pokemon_found_new">"العثور على بوكيمون جديد."</string>
+	<string name="position_picked">المكان المختار </string>
+	<string name="seconds">"ثواني "</string>
+	<string name="toast_localization_waiting">انتظار  ;</string>
+	<string name="toast_login_successful">دخول ناجح .</string>
+	<string name="toast_map_not_initialized">  Google Maps تهيئة خطأ </string>
+	<string name="toast_searching">البحث  &#8230;</string>
+	<string name="toast_server_unreachable">لا يمكن الاتصال إلى خوادم بوكيمون .</string>
+	<string name="toast_token_expired"> طلب رمز مميز جديد.</string>
+	<string name="toast_user_found">تم العثور على وضعك!
+</string>
+	<string name="toast_login_error">خطأ في الدخول .</string>
+	<string name="toast_internal_error">خطأ داخلي في التطبيق. يمكن أن يحدث هذا إذا كنت غير متصل أو قطع خوادم بوكيمون  .</string>
+	<string name="toast_ptc_login_error">فشل تسجيل الدخول PTC.</string>
+	<string name="enable_location_permission_title">السماح بتحديد الموقع الجغرافي .</string>
+	<string name="enable_location_permission_message">الارجاء السماح بتحديد الموقع الجغرافي.</string>
+	<string name="toast_pokemon_found_count">"وجدت البوكيمون"</string>
+	<string name="pokemon_found_none">لم يتم العثور على بوكيمون جديد.</string>
+	<string name="toast_no_location">فشل في الحصول على نظام تحديد المواقع .</string>
+	<string name="expiring_in">"انتهاء الصلاحية: %1$d:%2$02d"</string>
+	<string name="permition_message">اعطاء  إذن لاستخدام تطبيق تحديد الموقع الجغرافي</string>
+	<string name="allow">سماح</string>
+	<string name="app_settings">اعدادت التطبيق</string>
+	<string name="disclaimer">مستشار قانوني</string>
+	<string name="notification_service_title">خدمة البوكيمون </string>
+	<string name="notification_service_scanning">مسح </string>
+	<string name="notification_service_stop">توقف الخدمة </string>
+	<string name="notification_service_pokemon_near">"البوكيمون التالي."</string>
+	<string name="notification_service_pokemon_in_area">" تحقق من البوكيمون :"</string>
+	<string name="meters">متر</string>
+	<string name="toast_google_login_error">فشل تسجيل الدخول  Google.</string>
 
 </resources>
